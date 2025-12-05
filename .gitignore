@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Jupyter notebooks (if you experiment later)
+*.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
